@@ -38,7 +38,7 @@ int main() {
                             <<std::endl;
         }
     } catch (std::invalid_argument) {
-        std::cout << "\n" << userInput << "Really? (-_-)ゞ゛pick a year pls";
+        std::cout << "\n" << "Really? (-_-)ゞ゛pick a year pls";
         std::cout <<""<< std::endl;
     }
     std::cout << "\nDone." << std::endl;
