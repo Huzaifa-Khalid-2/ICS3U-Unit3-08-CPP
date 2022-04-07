@@ -16,7 +16,7 @@ int main() {
     std::string userInput;
 
     // input
-    std::cout << "Enter the number of the year (integer): ";
+    std::cout << "Enter the year (integer): ";
     std::cin >> userInput;
 
     // process and output
